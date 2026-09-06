@@ -428,27 +428,10 @@ The analysis produced the following main findings:
 
 ## Team
 
-**SIC 801 - Team 2**
-
+- Sara Mohamed
 - Ahmed Mohamed
 - Adham Mohamed
-- Sara Mohamed
 - Youssef Khaled
-
-**Supervised by:** Eng. Bassmala
-
-## Future Improvements
-
-Possible future improvements include:
-
-- Adding transaction and revenue data.
-- Calculating actual Customer Lifetime Value.
-- Adding a complete customer-month calendar to capture inactive months.
-- Using additional behavioral and temporal features.
-- Improving churn prediction performance.
-- Adding real-time data ingestion.
-- Developing automated retention recommendations.
-- Monitoring model performance over time.
 
 ## Disclaimer
 
